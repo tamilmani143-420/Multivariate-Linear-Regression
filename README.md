@@ -18,8 +18,7 @@ To write a python program to implement multivariate linear regression and predic
 <br>Print the regression coefficients and intercept to understand the relationship between features and target.
 
 ### Step5
-<br>Use the trained model to predict CO2 emissions for new input values (e.g., Weight=3300, Volume=1300) and display the result.<img width="799" height="85" alt="Screenshot 2026-05-29 191616" src="https://github.com/user-attachments/assets/1cf45f48-fc02-4bb4-992d-537409d1e2c9" />
-
+<br>Use the trained model to predict CO2 emissions for new input values (e.g., Weight=3300, Volume=1300) and display the result.
 
 ## Program:
 ```
